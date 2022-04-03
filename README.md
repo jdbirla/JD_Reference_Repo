@@ -16,6 +16,7 @@ This repository has all reference link like other important repository URLs, Imp
    - in28minutes-initiatives  : https://github.com/in28minutes/in28minutes-initiatives
    - spring-master-class      : https://github.com/in28minutes/spring-master-class
    - getting-started-in-5-steps : https://github.com/in28minutes/getting-started-in-5-steps
+   - spring-microservices       : https://github.com/in28minutes/spring-microservices
 
 - zero-to-mastery [ZTM]: Data Strucures and Algo related projects
   - start-here-guidelines  : https://github.com/zero-to-mastery/start-here-guidelines
