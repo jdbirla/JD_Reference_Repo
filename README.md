@@ -32,3 +32,4 @@ This repository has all reference link like other important repository URLs, Imp
 - ssahmed72  : LambdaExpression
   - ssahmed72/LambdaExpression : https://github.com/ssahmed72/LambdaExpression
   - ssahmed72/modernthreading   : https://github.com/ssahmed72/modernthreading
+- Complete Devops Transformation: https://aaftabhamdani.blogspot.com/p/free-ebooks.html
